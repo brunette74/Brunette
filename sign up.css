@@ -3,6 +3,7 @@
 background-color: rgb(220, 220, 214);
 background-position: center;
 margin: 10px;
+border: 3px;
 
 }
 .container{
@@ -43,3 +44,4 @@ text-align: center;
     
 
 }
+

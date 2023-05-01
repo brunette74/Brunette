@@ -3,7 +3,7 @@ body{
     
 }
 .navbar{
-    background-color:rgb(24, 24, 23);
+    background-color: rgb(135, 77, 7);
     height: 75px;
     padding-left: 740px;
     
@@ -42,4 +42,13 @@ section{
     }
 .words{
     padding:100px ;
+}
+.password{
+    visibility: hidden;
+}
+.email{
+    visibility: hidden;
+}
+.active{
+    visibility: visible;
 }

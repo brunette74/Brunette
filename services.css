@@ -97,20 +97,28 @@ body{
     align-items: center;
     justify-content: space-between;
     background-color:rgb(225, 224, 224);
+<<<<<<< HEAD
     
+=======
+>>>>>>> 8f38f0f36492bdd5532c51bffa2521ce1e4c9f5e
 
 }
 
 .navbar .logo a{
     font-size: 1.5rem;
     font-weight: bold;
+<<<<<<< HEAD
     text-decoration: none;
     color: #995803;
+=======
+    
+>>>>>>> 8f38f0f36492bdd5532c51bffa2521ce1e4c9f5e
 }
 
 .navbar .links{
     display: flex;
     gap: 2rem;
+<<<<<<< HEAD
     
     
 }
@@ -122,6 +130,8 @@ li{
 .navbar .links a{
     text-decoration: none;
     color: #995803;
+=======
+>>>>>>> 8f38f0f36492bdd5532c51bffa2521ce1e4c9f5e
 }
 
 .navbar .toggle_btn{

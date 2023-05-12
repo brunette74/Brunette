@@ -164,7 +164,10 @@ text-transform: uppercase;
 }
 li{
     list-style: none;
+<<<<<<< HEAD
     
+=======
+>>>>>>> 8f38f0f36492bdd5532c51bffa2521ce1e4c9f5e
 }
 
 a{
@@ -201,7 +204,10 @@ header{
 .navbar .links{
     display: flex;
     gap: 2rem;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8f38f0f36492bdd5532c51bffa2521ce1e4c9f5e
 }
 
 .navbar .toggle_btn{

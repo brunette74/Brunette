@@ -9,7 +9,11 @@
 .section{
     width: 100%;
     min-height: 100vh;
+<<<<<<< HEAD
     background-color: rgb(241, 241, 231);
+=======
+    background-color: #ece6dc;
+>>>>>>> 8f38f0f36492bdd5532c51bffa2521ce1e4c9f5e
 
 }
 .container{
@@ -50,7 +54,10 @@ width: 48%;
 .content-section .content .button {
 margin-top: 30px;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8f38f0f36492bdd5532c51bffa2521ce1e4c9f5e
 }
 .content-section .content .button a{
     background-color:#995803;
@@ -87,6 +94,7 @@ margin-top: 30px;
     background-color:rgb(225, 224, 224);
 
 }
+<<<<<<< HEAD
 li{
     list-style: none;
     
@@ -101,6 +109,12 @@ li{
     font-weight: bold;
     text-decoration: none;
     color: #844b06;
+=======
+
+.navbar .logo a{
+    font-size: 1.5rem;
+    font-weight: bold;
+>>>>>>> 8f38f0f36492bdd5532c51bffa2521ce1e4c9f5e
     
 }
 
